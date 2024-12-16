@@ -1,0 +1,12 @@
+{
+  "name": "advent-of-code-2024",
+  "source": "src/index.html",
+  "scripts": {
+    "start": "parcel",
+    "build": "parcel build"
+  },
+  "devDependencies": {
+    "@types/node": "^22.10.2",
+    "parcel": "latest"
+  }
+}

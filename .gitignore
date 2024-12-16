@@ -1,0 +1,5 @@
+input.txt
+input.ts
+.parcel-cache
+dist
+node_modules
